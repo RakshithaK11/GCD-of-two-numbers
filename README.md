@@ -29,7 +29,8 @@ def gcd():
 ~~~
 
 ## Output:
-C:\Users\admin\Pictures\Screenshots\Screenshot 2023-12-14 194629.png
+![image](https://github.com/RakshithaK11/GCD-of-two-numbers/assets/139336455/614e4e20-10c3-4098-8d42-aa93b7673456)
+
 
 
 ## Result:
